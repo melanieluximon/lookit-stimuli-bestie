@@ -1,3 +1,16 @@
+**TO-DO**
+- why is the image quality so bad omg??? fix
+- record vids
+- record audio
+
+
+
+
+
+
+
+
+
 Modified version of the Inclusion of Other in Self Scale.
 
 Includes 5 response options, with circles which become closer and eventually touch 
